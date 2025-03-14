@@ -5,43 +5,17 @@
 This project implements a **full machine learning pipeline** for spam classification.
 
 ---
+### **Viewing Pre-Generated Results**
+The notebook has been pre-executed, so you can explore the findings without running the code.
 
-## **How to Run the Notebook**
+🔗 **[Open in Google Colab](https://colab.research.google.com/drive/1y-k7DWK4WNj2LEmyBQxx6MNBQ_Nf0vpC)** 
 
-This project is hosted on **Google Colab**, so you don't need to install anything! Just follow these steps:
-
-### **Step 1: Open the Notebook**
-Click the link below to open the notebook in **Google Colab**:
-
-🔗 **[Open in Google Colab](https://colab.research.google.com/drive/1y-k7DWK4WNj2LEmyBQxx6MNBQ_Nf0vpC)**  
-*(Runs in your browser, no installation needed!)*
-
----
-
-### **Step 2: Run the Code**
-Once the notebook is open, you have two options to run the code:
-
-1. **Run everything at once** (Recommended):
-   - Click on **Runtime** (at the top bar) → **Run all**
-   - OR press **CTRL + F9** (Cmd + F9 on Mac)
-   
-**OR**
-
-2. **Run cells one by one** (To follow each step manually):
-   - Click on each code block and press **SHIFT + ENTER** to run it
-   - OR Click on **Runtime** (at the top bar) → **Run the focused cell**.
-
----
-
-### **Step 3: First Time Google Colab Warning**
-When you run the notebook for the first time, **Google Colab will show a warning** saying:
-> "This notebook was not authored by Google. It may request access to your Google Drive."
-
-**What to Do?**
-- This is a standard warning that appears whenever you run a Colab notebook.
-- Simply click **Run Anyway** to continue.
-
-The code will now execute step by step and walk you through the spam classification pipeline.
+### **Running the Notebook (Optional)**
+For those interested in running the full pipeline:
+1. Open the notebook in Google Colab using the link above.  
+2. Navigate to **Runtime** in the top menu and select **Run all** (or press `CTRL + F9` / `Cmd + F9` on Mac).  
+3. If prompted with a security notice about execution permissions, click **"Run Anyway."**  
+4. The notebook will process the dataset and generate results step by step.
 
 ## **Dataset Overview**
 
@@ -87,5 +61,5 @@ To further enhance the spam classification model, the following approaches can b
 
 ---
 
-Feel free to explore the notebook and experiment with different techniques to improve the model's performance!
+Explore the notebook to analyze the results or modify the code to experiment with different techniques.
 
